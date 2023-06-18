@@ -13,8 +13,8 @@ int main(void)
 
 	for (a = 'a' ; c <= 'z' ; c++)
 	{
-		putcher(c);
+		putchar(c);
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
 }
